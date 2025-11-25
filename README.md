@@ -141,14 +141,19 @@ The full license text is provided in the **`LICENSE`** file.
 
 ---
 
-## **8. Acknowledgments**
+8. Acknowledgments
 
-The methods implemented in this repository draw upon classical structural dynamics literature, including:
+The author gratefully acknowledges:
 
-* Chopra, *Dynamics of Structures*
-* Clough & Penzien, *Dynamics of Structures*
-* Newmark (1959), “A Method of Computation for Structural Dynamics”
-* Rayleigh, *The Theory of Sound*
+Professor Stavroula Pantazapoula, whose teaching, guidance, and course material in structural dynamics strongly influenced the formulation and implementation of the methods in this repository.
 
-This repository consolidates these classical techniques into reproducible MATLAB tools for research and teaching.
+The classical literature in structural dynamics, including:
+
+Chopra, Dynamics of Structures
+
+Clough & Penzien, Dynamics of Structures
+
+Newmark (1959), “A Method of Computation for Structural Dynamics”
+
+These works form the theoretical foundation for the algorithms implemented here.
 
