@@ -78,7 +78,7 @@ These documents are provided in LaTeX format for academic use, adaptation, and i
 ### **4.1 Cloning the Repository**
 
 ```bash
-git clone https://github.com/suba7897/struct_dynamics.git](https://github.com/suba7897/structural_dynamics_tools.git
+git clone [https://github.com/suba7897/structural_dynamics_tools.git]
 ```
 
 ### **4.2 Adding MATLAB Path**
